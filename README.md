@@ -23,5 +23,7 @@ My name is Albert-Jokelin and I'm a sophomore at NIT-Bhopal. I love programming 
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)-->
 
+## &#x1f4c8; GitHub Stats
+
 [![Albert's github stats](https://github-readme-stats.vercel.app/api?username=Albert-Jokelin&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Jokelin&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
