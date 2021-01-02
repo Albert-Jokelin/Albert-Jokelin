@@ -5,7 +5,7 @@
 
 My name is Albert-Jokelin and I'm a sophomore at NIT-Bhopal. I love programming and this repo showcases some of the coolest projects done while pursuing my CS degree.
 
-📫  How to reach me **albertjokelin@gmail.com**
+📫  Reach me **albertjokelin@gmail.com**
 
 ## 🔧 Technologies & Tools
 <!--![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)-->
