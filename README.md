@@ -1,7 +1,11 @@
-# Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Albert-Jokelin&label=Profile%20views&color=0e75b6&style=flat" alt="Albert-Jokelin" /> </p>
 
 
-MY name is Albert-Jokelin and I'm a sophomore at NIT-Bhopal. I love programming and this repo showcases some of the coolest projects done while pursuing my CS degree.
+My name is Albert-Jokelin and I'm a sophomore at NIT-Bhopal. I love programming and this repo showcases some of the coolest projects done while pursuing my CS degree.
+
+📫  How to reach me **albertjokelin@gmail.com**
 
 ## 🔧 Technologies & Tools
 <!--![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)-->
@@ -20,4 +24,4 @@ MY name is Albert-Jokelin and I'm a sophomore at NIT-Bhopal. I love programming 
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)-->
 
 [![Albert's github stats](https://github-readme-stats.vercel.app/api?username=Albert-Jokelin&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Jokelin&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Jokelin&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
