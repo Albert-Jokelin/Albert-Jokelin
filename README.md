@@ -1,9 +1,13 @@
+![](https://github.com/Albert-Jokelin/Albert-Jokelin/blob/main/header.png)
 <h1 align="center">Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Albert-Jokelin&label=Profile%20views&color=0e75b6&style=flat" alt="Albert-Jokelin" /> </p>
 
-
-My name is Albert-Jokelin and I'm a sophomore at NIT-Bhopal. I love programming and this repo showcases some of the coolest projects done while pursuing my CS degree.
+I love programming and this repo showcases some of the coolest projects I've created. Here's some more information about me:
+<br>
+-🎓 Sophomore at NIT Bhopal, majoring in Computer Science.<br>
+-🖥 Enhancing my Competitive Programming skills. <br>
+-💬 Brainstorm with me over tech or potential startup ideas.<br>
 
 📫  Reach me **albertjokelin@gmail.com**
 
