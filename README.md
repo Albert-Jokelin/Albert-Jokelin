@@ -5,8 +5,7 @@
 
 I love programming and this repo showcases some of the coolest projects I've created. Here's some more information about me:
 <br>
--🎓 Sophomore at NIT Bhopal, majoring in Computer Science.<br>
--🖥 Enhancing my Competitive Programming skills. <br>
+-🎓 Senior at NIT Bhopal, majoring in Computer Science.<br>
 -💬 Brainstorm with me over tech or potential startup ideas.<br>
 
 📫  Reach me **albertjokelin@gmail.com**
