@@ -1,5 +1,5 @@
 ![](https://github.com/Albert-Jokelin/Albert-Jokelin/blob/main/header.png)
-<h1 align="center">Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h1>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Albert-Jokelin&label=Profile%20views&color=0e75b6&style=flat" alt="Albert-Jokelin" /> </p>
 
