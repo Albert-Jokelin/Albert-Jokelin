@@ -10,6 +10,7 @@ I love programming and this repo showcases some of the coolest projects I've cre
 
 
 LinkedIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="albert-jokelin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/albert-jokelin?trk=profile-badge">Albert Jokelin</a></div>
+Email: business.albertjokelin@gmail.com
 
 ## 🔧 Technologies & Tools
 <!--![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)-->
